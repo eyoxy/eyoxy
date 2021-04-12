@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eyotre Geofre
+- 👋 Hi, I’m Eyotre Geofrey
 - 👀 I’m interested in Data Science, Machine Learning and IoT
 - 🌱 I’m currently learning Mearchine Learning and Data Visualization and communication with Tableau
 - 💞️ I’m looking to collaborate on ...
